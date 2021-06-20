@@ -1,0 +1,18 @@
+html,
+body,
+header,
+#intro {
+    height: 100%;
+}
+
+#intro {
+    background: url("https://th.bing.com/th/id/Rae1dfd946201ff8a89a299e62599c5df?rik=20ftDHuvG1D4DQ&riu=http%3a%2f%2fi0.hdslb.com%2fbfs%2farchive%2f8994ed0669d912ebae564c219a4445b24c678700.jpg&ehk=mOQ12PdwflL58xN6ErvfJ%2f80pNIZBH5ep3SeWWpObuo%3d&risl=&pid=ImgRaw")no-repeat center center fixed;
+    -webkit-background-size: cover; /* 针对Chrome, Safari, Edge等浏览器 */
+    -moz-background-size: cover;    /* 针对Firefox浏览器 */
+    -o-background-size: cover;      /* 针对Operallq */
+    background-size: cover;         /* 通用 */
+}
+
+.top-nav-collapse {
+  background-color: #24355C;
+}
